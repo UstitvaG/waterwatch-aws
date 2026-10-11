@@ -7,7 +7,7 @@ Every monsoon, streets across Indian cities flood or waterlog — but there is n
 
 ## 🔗 Project Links
 *   **Live Site:** [Launch WaterWatch App](http://waterwatch-ustitvag-2026.s3-website.ap-south-1.amazonaws.com/)
-*   **Demo Video:** [Watch the Video Walkthrough](YOUR_VIDEO_LINK_HERE)
+*   **Demo Video:** [Watch the Video Walkthrough](https://www.youtube.com/watch?v=jorXd9g4VV0)
 
 ## 🚀 How It Works
 1.  **View the Map:** A user opens the site and sees a live map of existing reports, color-coded by severity (Low / Medium / High).
